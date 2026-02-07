@@ -1,0 +1,41 @@
+#movable-img {
+  position: absolute;
+  top: 20px;
+  left: 300px;
+  width: 100px;
+}
+
+main{
+  background-image: url('rick-ashtley-never-gonna-give-up.gif');
+}
+body {
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 20px;
+}
+
+.text{
+  color: azure;
+}
+
+.green { color: green; }
+.red { color: red; }
+.blue { color: blue; }
+.orange { color: orange; }
+.purple { color: purple; }
+.pink { color: pink; }
+.brown { color: brown; }
+.gray { color: gray; }
+.yellow { color: yellow; background: black; }
+.cyan { color: cyan; background: black; }
+.tahoma { font-family: Tahoma; }
+.arial { font-family: Arial; }
+.verdana { font-family: Verdana; }
+.georgia { font-family: Georgia; }
+.courier { font-family: Courier; }
+.underline { text-decoration: underline; }
+.italic-bold { font-style: italic; font-weight: bold; }
+.indent { margin-left: 40px; }
+.address-left { float: left; width: 200px; }
+.address-center { text-align: center; margin-top: 100px; }
+.image-title { font-weight: bold; margin-bottom: 20px; }
